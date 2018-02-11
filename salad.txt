@@ -1,4 +1,4 @@
-Salad Recipie:
+Salad-Recipie:
 
 Ingredients:
 	4 Bread Slices
@@ -7,3 +7,5 @@ Ingredients:
 	1 Capsicum
 	1 Onion
 
+Procedure:
+	Cut the Onions, Tomato & Capsicum
